@@ -1,4 +1,4 @@
-## Outpatient Management: Colostomy
+# Outpatient Management: Colostomy
 1. First postoperative visit 7-14 days postoperatively OR two weeks after discharge if hospitalized on postoperative day #14
 2. Second postoperative visit 2 months postoperatively (telehealth if eligible)
 3. Pre-Reversal Workup
