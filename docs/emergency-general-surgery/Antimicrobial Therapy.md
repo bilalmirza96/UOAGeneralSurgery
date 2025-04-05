@@ -13,8 +13,8 @@ Many patients who present to the Emergency General Surgery service do so for inf
 ### A. Acute Appendicitis
 
 - **Without Shock**
-  * *First Line:* Ceftriaxone + Metronidazole  
-  * *Severe PCN allergy:* Levofloxacin + Metronidazole
+  - * *First Line:* Ceftriaxone + Metronidazole  
+  - * *Severe PCN allergy:* Levofloxacin + Metronidazole
 
 - **Sepsis / MDR Risk**
   * *First Line:* Piperacillin/Tazobactam  
