@@ -10,11 +10,11 @@ Acute appendicitis is one of the most common reasons for presentation to the Eme
 ### A. Initial Evaluation
 
 - **Laboratory tests**
-  >> Complete blood count (CBC)
-  >> Basic metabolic panel (BMP)
+    * Complete blood count (CBC)
+    * Basic metabolic panel (BMP)
 
 - **Imaging**
-  - CT abdomen/pelvis with IV contrast
+    * CT abdomen/pelvis with IV contrast
 
 ---
 
@@ -31,12 +31,12 @@ Acute appendicitis is one of the most common reasons for presentation to the Eme
 **Regimens:**
 
 - **Without shock**
-  - First-line: Ceftriaxone + Metronidazole  
-  - Severe penicillin allergy: Levofloxacin + Metronidazole
+    * First-line: Ceftriaxone + Metronidazole  
+    * Severe penicillin allergy: Levofloxacin + Metronidazole
 
 - **With sepsis or risk for multidrug resistance**
-  - First-line: Piperacillin–Tazobactam  
-  - Severe penicillin allergy: Vancomycin + Cefepime + Metronidazole
+    * First-line: Piperacillin–Tazobactam  
+    * Severe penicillin allergy: Vancomycin + Cefepime + Metronidazole
 
 ---
 
