@@ -10,8 +10,8 @@ Acute appendicitis is one of the most common reasons for presentation to the Eme
 ### A. Initial Evaluation
 
 - **Laboratory tests**
-  - Complete blood count (CBC)
-  - Basic metabolic panel (BMP)
+  >> Complete blood count (CBC)
+  >> Basic metabolic panel (BMP)
 
 - **Imaging**
   - CT abdomen/pelvis with IV contrast
