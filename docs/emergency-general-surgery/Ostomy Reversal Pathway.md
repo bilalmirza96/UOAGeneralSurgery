@@ -1,5 +1,4 @@
-# Emergency General Surgery  
-## Practice Management Guideline: Ostomy Reversal Pathway
+# Ostomy Reversal Pathway
 
 ---
 
