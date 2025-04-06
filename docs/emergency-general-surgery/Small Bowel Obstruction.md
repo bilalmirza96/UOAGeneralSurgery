@@ -83,6 +83,31 @@ Small bowel obstruction remains one of the more common reasons for Emergency Gen
 - Bowel function  
 - Resolution of pain
 
+
+```mermaid
+flowchart TD
+    A[Patient with Suspected Bowel Obstruction] --> B[Crystalloid Resuscitation,<br/>CBC, BMP, Lactate]
+    B --> C[CT Abdomen/Pelvis with IV Contrast]
+
+    C --> D[No Suspicion of Ischemia]
+    C --> E[**Suspicion of Ischemia**]
+
+    D --> F[Small Bowel Follow Through<br/>Serial Abdominal Exams]
+    F --> G[Contrast in Colon at 24 Hours<br/>or Bowel Movement]
+    G --> H[Remove NG Tube<br/>Advance Diet]
+    H --> I[Discharge when<br/>Tolerating Diet, Pain Improved]
+
+    F --> J[Worsening Physical Exam<br/>or Vital Signs]
+    F --> K[No Contrast in Colon<br/>at 24 Hours]
+
+    J --> L[Operative Exploration]
+    K --> L
+    E --> L
+
+    L --> I
+```
+
+
 ---
 
 ## III. References
