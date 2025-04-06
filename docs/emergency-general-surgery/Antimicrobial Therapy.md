@@ -1,5 +1,4 @@
-# Emergency General Surgery  
-## Practice Management Guidelines: Antimicrobial Therapy
+# Antimicrobial Therapy
 
 ---
 
