@@ -137,9 +137,3 @@
 2. Devlin JW, Skrobik Y, Gélinas C, et al. *Clinical practice guidelines for the prevention and management of pain, agitation/sedation, delirium, immobility, and sleep disruption in adult patients in the ICU (PADIS Guidelines).* Crit Care Med. 2018;46(9):e825–e873.  
 3. Reade MC, Eastwood GM, Bellomo R, et al. *Effect of dexmedetomidine added to standard care on ventilator-free time in patients with agitated delirium: a randomized clinical trial.* JAMA. 2016;315(14):1460–1468.  
 
----
-
-## Key Takeaways  
-- **Multimodal, stepwise, oral-first** approach.  
-- **Reassess frequently** — disproportionate pain requires workup.  
-- **Intern role**: start with acetaminophen/NSAID, escalate to PRN opioids, know safe doses, call senior/APS when pain uncontrolled.  
