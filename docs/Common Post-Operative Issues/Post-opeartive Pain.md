@@ -15,38 +15,49 @@
 ## II. Stepwise Framework  
 
 ### Step 1: Scheduled Non-Opioids (baseline for all unless contraindicated)  
-- **Acetaminophen**  
-  - 650 mg PO q6h OR 1 g PO/IV q6–8h  
-  - Max 4 g/day (3 g/day in liver disease, alcohol use, frail patients)  
 
-- **NSAIDs** (if renal function intact, no bleeding risk)  
+- **Acetaminophen**  
+  - 650 mg PO q6h OR 1g PO/IV q6–8h  
+  - Max 4g/day (3g/day in liver disease, alcohol use, frail patients)  
+
+- **NSAIDs** (Avoid in renal impairment, GI ulcer, coagulopathy, fresh anastomosis)  
   - Ketorolac 15–30 mg IV q6h (max 5 days)  
   - Ibuprofen 400–600 mg PO q6h  
-  - Avoid in renal impairment, GI ulcer, coagulopathy, fresh anastomosis  
+    
 
 - **Adjuncts**  
   - Gabapentin 100–300 mg PO qHS (titrate to 300 TID if tolerated)  
-    *Renal dose adjust*  
+    *Renal dose adjust*
+    
   - Robaxin (methocarbamol) 500–1000 mg IV/PO q8h PRN  
-    *Limit IV ≤3 days; avoid in severe renal impairment*  
+    *Limit IV ≤3 days; avoid in severe renal impairment*
+    
   - Flexeril (cyclobenzaprine) 5–10 mg PO TID PRN  
-    *Caution oversedation*  
+    *Caution oversedation*
+    
   - Lidocaine patches for incisional pain  
 
 ---
 
 ### Step 2: PRN Oral Opioids (breakthrough pain)  
-- Oxycodone IR 5–10 mg PO q4–6h PRN  
-- Hydromorphone PO 2–4 mg PO q4–6h PRN  
+
+- Oxycodone extended release 5–10 mg PO q4–6h PRN
+  
+- Hydromorphone PO 2–4 mg PO q4–6h PRN
+  
 - Hydrocodone/APAP (Norco 5/325 mg) 1–2 tabs PO q6h PRN  
-  *Track acetaminophen total daily dose*  
+  *Track acetaminophen total daily dose*
+  
 - Tramadol 50 mg PO q6h PRN (max 400 mg/day; serotonin syndrome risk with SSRIs/SNRIs)  
 
 ---
 
 ### Step 3: IV Opioids (if NPO, severe pain, or unable to tolerate PO)  
-- Hydromorphone IV 0.2–0.5 mg IV q2–3h PRN  
-- Morphine IV 1–2 mg IV q2–3h PRN (*avoid in renal impairment*)  
+
+- Hydromorphone IV 0.2–0.5 mg IV q2–3h PRN
+  
+- Morphine IV 1–2 mg IV q2–3h PRN (*avoid in renal impairment*)
+  
 - Fentanyl IV 25–50 mcg q1–2h PRN (*short acting*)  
 
 ---
@@ -55,17 +66,19 @@
 - **PCA (Patient-Controlled Analgesia)**  
   - Hydromorphone PCA: 0.2 mg demand, lockout 8–10 min, no basal in opioid-naïve  
   - Morphine PCA: 1 mg demand, lockout 8–10 min  
-  - Add basal infusion ONLY if opioid-tolerant or ICU monitored  
+  - Add basal infusion ONLY if opioid-tolerant or ICU monitored
+ 
+ ### Step 5: Acute Pain Service consult
+  - Pain uncontrolled despite multimodal regimen  
+  - Opioid-tolerant/chronic pain patient  
+  - Regional/epidural analgesia is being considered  
 
 - **Regional / Neuraxial**  
   - Epidural infusion (thoracic/lumbar)  
   - TAP block or wound infusion catheter  
   - Coordinate with anesthesia/pain service  
 
-- **Acute Pain Service consult** if:  
-  - Pain uncontrolled despite multimodal regimen  
-  - Opioid-tolerant/chronic pain patient  
-  - Regional/epidural analgesia is being considered  
+
 
 ---
 
@@ -77,7 +90,7 @@
 
 - **Side effect management**  
   - Nausea → ondansetron 4 mg IV/PO q8h PRN  
-  - Constipation → senna + docusate scheduled, add miralax PRN  
+  - Constipation → senna scheduled, add miralax PRN  
   - Pruritus → diphenhydramine or nalbuphine  
   - Respiratory depression → naloxone 0.1–0.2 mg IV q2–3 min PRN (max 0.8 mg)  
 
@@ -92,10 +105,10 @@
 - Always start with **scheduled acetaminophen + NSAID** unless contraindicated.  
 - Opioids should be **PRN, not scheduled**.  
 - Never exceed **daily acetaminophen max** (account for combo pills).  
-- **Reassess pain and vitals** after each step.  
+- **Reassess pain and vitals** after each escalation step.  
 - Disproportionate pain = **consider complication** (bleeding, leak, compartment syndrome).  
 - ICU patients: minimize continuous sedation; prioritize analgesia.  
-- If delirium develops → minimize opioids/benzos, review meds, involve ICU team.  
+- If delirium develops → minimize opioids/benzos, review meds, add delirium precauations orders. 
 
 ---
 
