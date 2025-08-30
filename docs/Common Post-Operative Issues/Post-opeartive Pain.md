@@ -101,7 +101,7 @@
 
 ---
 
-## IV. Intern-Level Pearls  
+## IV. Intern Tips
 - Always start with **scheduled acetaminophen + NSAID** unless contraindicated.  
 - Opioids should be **PRN, not scheduled**.  
 - Never exceed **daily acetaminophen max** (account for combo pills).  
