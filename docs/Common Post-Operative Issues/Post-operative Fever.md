@@ -24,17 +24,12 @@
 ## III. Stepwise Evaluation  
 
 ### Step 1 – Confirm Fever  
-- Verify measurement, repeat if uncertain.  
+- Verify measurement and source, repeat if uncertain.  
 - Review trend, maximum temperature, and fever pattern (isolated vs persistent vs spiking).  
 
 ### Step 2 – Assess Stability  
 - **Vitals:** HR, BP, O2 sat, RR.  
 - **Sepsis screen:** hypotension, tachypnea, altered mental status, oliguria.  
-- **If unstable:**  
-  - Call senior immediately  
-  - Broad-spectrum antibiotics after cultures  
-  - Fluid resuscitation, sepsis protocol  
-  - Consider ICU transfer  
 
 ### Step 3 – History and Exam  
 - **History:** cough, sputum, dysuria, wound pain/drainage, diarrhea, calf pain/swelling, meds/blood products.  
@@ -59,7 +54,7 @@
 ## IV. Management  
 
 - **Stable patients**  
-  - Complete evaluation before empiric antibiotics unless clear source  
+  - Complete evaluation before empiric antibiotics  
   - Supportive care: antipyretics, pulmonary toilet, incentive spirometry, ambulation, hydration  
 
 - **Unstable patients**  
