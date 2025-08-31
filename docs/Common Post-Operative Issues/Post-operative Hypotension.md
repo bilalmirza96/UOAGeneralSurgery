@@ -3,118 +3,118 @@
 ---
 
 ## I. Definition  
-- **Hypotension = SBP < 90 mmHg or MAP < 65 mmHg**, or a drop > 40 mmHg from baseline.  
-- Clinical significance is based on **organ perfusion**: altered mental status, oliguria, lactic acidosis, or chest pain indicate poor perfusion regardless of numeric threshold.  
+- **Hypotension =**  
+  - SBP < 90 mmHg OR  
+  - MAP < 65 mmHg OR  
+  - Drop > 40 mmHg from baseline  
+- Clinical significance depends on **organ perfusion**: altered mental status, oliguria, lactic acidosis, or chest pain indicate shock regardless of the number.  
 
 ---
 
 ## II. Principles  
-- Post-operative hypotension may be **benign (residual anesthesia, mild hypovolemia)** or **life-threatening (hemorrhage, cardiogenic shock, sepsis, anaphylaxis)**.  
+- Post-op hypotension may be **benign** (residual anesthesia, mild hypovolemia) or **life-threatening** (hemorrhage, cardiogenic shock, sepsis, anaphylaxis).  
 - Think in categories:  
-  - **Tank (volume problem)**: hypovolemia, hemorrhage, third spacing.  
-  - **Pump (cardiac problem)**: MI, arrhythmia, tamponade, cardiomyopathy, PE.  
-  - **Pipes (systemic vascular resistance problem)**: sepsis, anaphylaxis, adrenal insufficiency, neurogenic/epidural vasodilation.  
+  - **Tank (volume problem):** hemorrhage, hypovolemia, third spacing  
+  - **Pump (cardiac problem):** MI, arrhythmia, tamponade, cardiomyopathy, PE  
+  - **Pipes (resistance problem):** sepsis, anaphylaxis, adrenal insufficiency, epidural vasodilation  
 - **Unstable patient with hypotension = shock until proven otherwise.**  
+- **Restart chronic antihypertensives early when safe**, especially beta-blockers and clonidine, to avoid rebound instability. Hold ACEi/ARB if ongoing hypotension.  
 
 ---
 
 ## III. Stepwise Evaluation  
 
 ### Step 1 – Confirm  
-- Recheck BP manually, ensure cuff size appropriate.  
-- Review trend and correlate with HR, SpO₂, urine output.  
+- Recheck BP manually, ensure correct cuff.  
+- Review trends and correlate with HR, SpO₂, urine output.  
+- Confirm with arterial line if available.  
 
 ### Step 2 – Assess Stability  
 - ABCs first.  
-- Mental status, urine output, capillary refill, extremity temperature.  
-- If unstable: call senior/ICU, begin resuscitation.  
+- Check mental status, urine output, cap refill, extremity temperature.  
+- If unstable → call senior/ICU and start resuscitation immediately.  
 
-### Step 3 – History & Exam  
-- **History:** operative blood loss, fluid replacement, meds (antihypertensives, epidural).  
+### Step 3 – Focused History & Exam  
+- **History:** blood loss, fluid balance, epidural use, missed antihypertensives.  
 - **Exam:**  
-  - Surgical site, drains, dressings (bleeding, hematoma).  
-  - JVP, lung sounds, heart sounds (CHF, tamponade).  
-  - Abdomen (distension, rigidity, leak).  
-  - Extremities (warm vs cool, mottling).  
+  - Surgical site, drains, dressings → bleeding/hematoma  
+  - JVP, heart sounds, lungs → CHF, tamponade, pneumothorax  
+  - Abdomen → distension, rigidity, leak  
+  - Extremities → warm vs cold, mottling, DVT signs  
 
 ### Step 4 – Immediate Workup  
-- Vitals with continuous monitoring.  
-- CBC (hemoglobin/hematocrit).  
-- BMP (electrolytes, renal function).  
-- Lactate (tissue perfusion).  
-- Coagulation studies if bleeding suspected.  
+- Continuous vitals and strict I/O.  
+- CBC (H/H), BMP, lactate.  
+- Coagulation profile if bleeding suspected.  
 - ECG (ischemia, arrhythmia).  
 - CXR (pneumothorax, pulmonary edema).  
-- Consider: bedside echocardiography/POCUS for volume status, cardiac function, tamponade.  
-- CT chest/abdomen/pelvis if intra-abdominal bleeding/leak suspected and patient is stable enough.  
+- **POCUS:** IVC, LV/RV function, tamponade, pericardial effusion.  
+- CT chest/abdomen/pelvis if bleeding or leak suspected and patient stable.  
 
 ---
 
 ## IV. Management  
 
-### General Principles  
-- **Airway, Breathing, Circulation** first.  
-- Place 2 large-bore IVs (14–16g), O₂, monitor.  
+### General Measures  
+- Airway, Breathing, Circulation.  
+- O₂, 2 large-bore IVs, monitor.  
 - Type & crossmatch if bleeding suspected.  
 
-### Stepwise Approach  
+### Stepwise by Category  
 
-1. **Tank (Hypovolemia / Hemorrhage / Third Spacing)**  
-   - IV fluid bolus: 500–1000 mL crystalloid.  
-   - Reassess response.  
-   - If inadequate: repeat bolus, consider blood products.  
-   - Look for bleeding: surgical site, drains, chest/abdomen.  
+#### 1. Tank (Volume/Hemorrhage/Third Spacing)  
+- 500–1000 mL crystalloid bolus → reassess.  
+- Repeat bolus or escalate to blood products if inadequate.  
+- Search for bleeding (surgical site, chest, abdomen, retroperitoneum).  
+- Massive transfusion protocol if active hemorrhage.  
 
-2. **Pump (Cardiac dysfunction)**  
-   - EKG, troponin → MI?  
-   - Arrhythmia → treat per ACLS (AFib, VT, VF, bradycardia).  
-   - Consider bedside echo for function.  
-   - If cardiogenic shock → inotropes (dobutamine), cardiology consult.  
+#### 2. Pump (Cardiac Dysfunction)  
+- EKG, troponin, echo.  
+- Arrhythmia → treat per ACLS.  
+- MI/cardiogenic shock → cardiology, inotropes (dobutamine, milrinone).  
+- Tamponade → pericardiocentesis or surgical decompression.  
 
-3. **Pipes (Vasodilation / Maldistribution)**  
-   - Sepsis → cultures, broad antibiotics, source control, fluids.  
-   - Anaphylaxis → epinephrine, steroids, antihistamines.  
-   - Adrenal insufficiency → stress-dose hydrocortisone.  
-   - Epidural-induced vasodilation → fluids, reduce/stop epidural infusion, vasopressors.  
+#### 3. Pipes (Vasodilation/Maldistribution)  
+- Sepsis → cultures, broad antibiotics, source control, fluids.  
+- Anaphylaxis → epinephrine, antihistamines, steroids.  
+- Adrenal insufficiency → stress-dose hydrocortisone.  
+- Epidural-induced vasodilation → pause infusion, fluids, vasopressors.  
 
-4. **If persistent hypotension despite fluids**  
-   - Start vasopressors: norepinephrine (first-line).  
-   - ICU transfer for vasopressor support and advanced monitoring.  
+#### 4. Persistent Hypotension Despite Fluids  
+- Start **vasopressors**: norepinephrine = first-line.  
+- Add vasopressin or epinephrine if refractory.  
+- ICU transfer for invasive monitoring and advanced support.  
 
 ---
 
 ## V. Red Flags – Call Senior Immediately  
 - Hypotension unresponsive to 1–2 L crystalloid.  
-- Suspected active bleeding or falling H/H.  
+- Suspected active bleeding or falling hemoglobin.  
 - Hypotension with chest pain, arrhythmia, or new ST changes.  
-- Hypotension with hypoxia, respiratory distress (possible PE, tamponade, pneumothorax).  
-- Hypotension in septic patient with altered mental status or lactic acidosis.  
+- Hypotension with hypoxia or respiratory distress (PE, tamponade, pneumothorax).  
+- Hypotension with altered mental status or rising lactate.  
+- MAP < 60–65 mmHg sustained despite fluids.  
 
 ---
 
 ## VI. Intern Pearls  
-- **Hypotension is never normal post-op** → always search for a cause.  
-- **Tank, Pump, Pipes** framework keeps differential organized.  
-- Look at **HR response**:  
+- Hypotension is **never normal post-op** — always find the cause.  
+- Use **Tank → Pump → Pipes** to stay systematic.  
+- **Heart rate clues:**  
   - Tachycardia → volume loss, sepsis.  
-  - Bradycardia → conduction block, meds, high vagal tone.  
-- **Response to fluids is diagnostic** — improvement suggests volume issue.  
-- Persistent hypotension despite fluids = **ICU + pressors**.  
-- Never forget **occult bleeding** — retroperitoneal, intra-abdominal, hemothorax.  
-
----
-
-## VII. References  
-
-1. Cecconi M, et al. *Consensus on circulatory shock and hemodynamic monitoring.* Intensive Care Med. 2014;40(12):1795–1815.  
-2. Dellinger RP, et al. *Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock.* Crit Care Med. 2013;41(2):580–637.  
-3. Saugel B, et al. *Hemodynamic management of shock: beyond fluids and vasopressors.* Ann Intensive Care. 2021;11:37.  
+  - Bradycardia → meds, conduction block, vagal.  
+- **Response to fluids is diagnostic:** improvement = tank problem.  
+- Persistent hypotension despite fluids → **pressors + ICU**.  
+- Always consider **occult bleeding** (retroperitoneum, hemothorax, intra-abdominal).  
+- Restart chronic antihypertensives early if safe to prevent rebound.  
 
 ---
 
 ## Key Takeaways  
-- **Define hypotension clinically: MAP < 65 or SBP < 90 with signs of hypoperfusion.**  
-- Think **Tank, Pump, Pipes** for causes.  
-- **Stepwise: Confirm → Assess stability → Focused exam → Workup → Resuscitate.**  
-- **Unstable = shock until proven otherwise.**  
-- Early senior involvement is critical — hypotension is never benign in surgical patients.  
+- Define hypotension clinically: **MAP < 65 or SBP < 90 with poor perfusion**.  
+- **Tank, Pump, Pipes** framework organizes causes.  
+- Stepwise: **Confirm → Assess stability → Focused exam → Workup → Resuscitate**.  
+- **MAP < 60–65 is dangerous** and requires prompt action.  
+- Early senior/ICU involvement is critical — hypotension is never benign post-op.  
+
+---
