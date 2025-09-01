@@ -4,15 +4,20 @@
 
 ## I. Scope & Definitions
 - **PONV**: nausea and/or vomiting within 24–48 h of anesthesia/surgery.
+  
 - Post-op N/V may be **benign (PONV, medication-related)** or indicate **complication** (ileus, SBO, anastomotic leak, aspiration, intracranial process).
-- Goals: **stabilize → identify driver (PONV vs obstructive/medical) → treat using class-based antiemetics and prokinetics → prevent recurrence**.
+  
+- Goals: **stabilize → identify driver (PONV vs obstructive/pathological) → treat using class-based antiemetics and prokinetics → prevent recurrence**.
 
 ---
 
 ## II. First-Principles Framework (etiology buckets)
 - **CNS/vestibular**: anesthetics, opioids, migraine, motion sensitivity.
+  
 - **GI motility/obstruction**: ileus, **SBO**, delayed gastric emptying; anastomotic complications if toxic.
+  
 - **Chemical/metabolic**: opioids, antibiotics, iron, uremia (missed dialysis), DKA, pregnancy.
+  
 - **Risk factors for PONV (Apfel)**: **female**, **non-smoker**, **prior PONV/motion sickness**, **post-op opioids** (0–4 points ≈ 10/20/40/60% risk).
 
 ---
@@ -24,7 +29,7 @@
 - IV crystalloid; **correct electrolytes** (targets: **K⁺ ≥ 4.0**, **Mg²⁺ ≥ 2.0**).
 
 **Step 2 – Focused Hx/Exam**
-- Timing (PACU vs POD 2–3), emesis character (bilious/feculent), distension/tenderness, flatus/BM, prior PONV, migraine/vestibular symptoms, opioid dose.
+- Timing (PACU vs POD 2–3), emesis character (gastric/bilious/feculent), distension/tenderness, last flatus/BM, prior PONV, migraine/vestibular symptoms, opioid dose.
 
 **Step 3 – Targeted Workup (as indicated)**
 - Labs: BMP (K/Mg/Ca), glucose; ± lactate if ill; pregnancy test when relevant.
@@ -77,22 +82,28 @@
 ## VII. Rescue Ladder (when symptoms occur or persist)
 1. **If no prophylaxis was given**:  
    - Start **one agent** (e.g., **ondansetron 4 mg IV**). Reassess in **30–60 min**.
+     
 2. **If persistent symptoms**:  
-   - Add **a second agent from a different class** (e.g., **promethazine 12.5–25 mg IV** *or* **prochlorperazine 5–10 mg IV**).  
+   - Add **a second agent from a different class** (e.g., **promethazine 12.5–25 mg IV** *or* **prochlorperazine 5–10 mg IV**).
+     
 3. **If still symptomatic**:  
-   - Add **a third class** (e.g., **dexamethasone 4–8 mg IV** if not yet given, **or** **droperidol 0.625–1.25 mg IV** with ECG and corrected K/Mg).  
+   - Add **a third class** (e.g., **dexamethasone 4–8 mg IV** if not yet given, **or** **droperidol 0.625–1.25 mg IV** with ECG and corrected K/Mg).
+  
 4. **If impaired motility suspected and no mechanical obstruction**:  
-   - Add **metoclopramide 10 mg IV q6h** (prokinetic), continue electrolyte optimization, minimize opioids.  
+   - Add **metoclopramide 10 mg IV q6h** (prokinetic), continue electrolyte optimization, minimize opioids.
+     
 5. **Refractory/high-risk**:  
-   - Consider **NK-1 antagonist (aprepitant 40 mg PO)** per formulary; review for drug interactions.  
+   - Consider **NK-1 antagonist (aprepitant 40 mg PO)** per formulary; review for drug interactions.
+     
 6. **At any step, if red flags appear** (see Section X):  
    - **Escalate** evaluation for **ileus/SBO/leak** and proceed to decompression pathway.
 
 ---
 
 ## VIII. Ileus / SBO Decompression Pathway
-- **Ileus likely** (distension, minimal pain, no flatus/BM): NPO, IV fluids, correct K/Mg, minimize opioids, chew gum, early ambulation, **metoclopramide** if no contraindication.  
-- **High-grade obstruction or persistent large-volume emesis**: **NG tube** to low continuous suction, resuscitate, **CT A/P with IV contrast**, urgent surgical review.
+- **Ileus likely** (distension, minimal pain, no flatus/BM): NPO, IV fluids, correct K/Mg, minimize opioids, chew gum, early ambulation, **metoclopramide** if no contraindication.
+  
+- **High-grade obstruction or persistent large-volume emesis**: **NG tube** to low continuous suction, resuscitate, **possible CT A/P with IV contrast**, 
 
 ---
 
