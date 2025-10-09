@@ -1,9 +1,10 @@
-site_name: Vanderbilt General Surgery Practice Management Guidelines
+site_name: University of Arizona General Surgery Practice Management Guidelines
 site_url: https://surgery-residency.com
 repo_url: https://github.com/bilalmirza96/VanderbiltGeneralSurgery
 edit_uri: edit/main/docs/
 copyright: |
-  Copyright &copy; 2025 Vanderbilt University General Surgery<br>
+  Copyright © 2025 University of Arizona General Surgery
+
 docs_dir: 'docs'
 plugins:
   - search
@@ -19,7 +20,6 @@ plugins:
       add_print_site_banner: true
       enumerate_headings: false
       enumerate_figures: false
-
 theme:
   name: material
   custom_dir: overrides
@@ -51,10 +51,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
-
-
 markdown_extensions:
-
   # Python Markdown
   - abbr
   - admonition
@@ -65,7 +62,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-
   # Python Markdown Extensions
   - pymdownx.arithmatex:
       generic: true
@@ -83,7 +79,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: vanderbilt-internal-medicine
+      user: arizona-general-surgery
       repo: vimbook
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -94,13 +90,10 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
-
-
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/extra.js
-
 # extra:
 #   analytics:
 #     provider: google
@@ -113,13 +106,13 @@ extra_javascript:
 #           data: 1
 #           note: >-
 #             Thank you! Help us improve this page by
-#             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
+#             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank">feedback form</a>.
 #         - icon: material/emoticon-sad-outline
 #           name: This page could be improved
 #           data: 0
 #           note: >-
 #             Thanks for your feedback! Help us improve this page by
-#             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
+#             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank">feedback form</a>.
 #  consent:
 #    title: Cookie consent
 #    description: >-
@@ -127,6 +120,5 @@ extra_javascript:
 #      as to measure the effectiveness of our documentation and whether users
 #      find what they're searching for. With your consent, you're helping us to
 #      make our documentation better.
-
-# VUMC Colors (https://www.vanderbilt.edu/communications/brand/color.php)
+# University of Arizona Colors
 # Gold: Hex: D8AB4C, Black: Hex: 000000, Blue: Hex: 006682, Red: Hex:  993D1B, Dark Gray: Hex:  333333 Green: Hex:  464E21
