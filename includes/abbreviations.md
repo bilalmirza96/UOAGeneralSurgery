@@ -61,4 +61,4 @@
 *[VF]: Ventricular Fibrillation
 *[VSD]: Ventricular Septal Defect
 *[VT]: Ventricular Tachycardia
-*[VUMC]: Vanderbilt University Medical Center
+*[VUMC]: University of Arizona Medical Center
