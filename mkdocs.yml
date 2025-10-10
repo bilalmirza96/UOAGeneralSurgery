@@ -27,8 +27,8 @@ theme:
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
-  favicon: images/Surgery WEB-HEADER.png
-  logo: images/Surgery WEB-HEADER.png
+  favicon: images/ua-favicon.png            # <— supply this file
+  logo: images/ua-logo-white.png            # <— white-on-dark UA logo
   features:
     - search.suggest
     - search.highlight
@@ -36,21 +36,21 @@ theme:
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-auto
+        icon: material/link
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: black
       accent: amber
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       accent: amber
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off
         name: Switch to system preference
 
 markdown_extensions:
@@ -59,6 +59,7 @@ markdown_extensions:
   - attr_list
   - def_list
   - footnotes
+  - meta
   - md_in_html
   - toc:
       permalink: true
@@ -71,36 +72,24 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       emoji_index: !!python/name:material.extensions.emoji.twemoji
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
+  - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:
-      normalize_issue_symbols: true
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: arizona-general-surgery        # optional: your org/user
+      repo: vimbook                        # optional: your repo shortlink
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.snippets:
-      auto_append:
-        - includes/abbreviations.md
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-      combine_header_slug: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
 
 extra_css:
   - stylesheets/extra.css
@@ -109,3 +98,18 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/bilalmirza96/VanderbiltGeneralSurgery
+  feedback:
+    title: Was this page helpful?
+    ratings:
+      - icon: material/emoticon-happy-outline
+        name: This page was helpful
+        data: 1
+        note: >-
+          Thank you! Help us improve this page by
+          using our <a href="https://github.com/bilalmirza96/VanderbiltGeneralSurgery/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
+      - icon: material/emoticon-sad-outline
+        name: This page could be improved
+        data: 0
+        note: >-
+          Thanks for your feedback! Help us improve this page by
+          using our <a href="h
