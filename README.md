@@ -1,6 +1,8 @@
-VIMbook
+#UOAhandbook
 https://vumcgspmg.pages.dev
+
 This repository has the contents of the University of Arizona General Surgery Handbook.
+
 ## contributing
 ### getting access
 Create an account on [GitHub](https://github.com/). It's free. Then shoot an email with your username to one of the maintainers of the vimbook (e.g. beau.hilton@vumc.org) to be added to the organization.
