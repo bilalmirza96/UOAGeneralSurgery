@@ -4,7 +4,6 @@ repo_url: https://github.com/bilalmirza96/VanderbiltGeneralSurgery
 edit_uri: edit/main/docs/
 copyright: |
   Copyright © 2025 University of Arizona General Surgery
-
 docs_dir: 'docs'
 plugins:
   - search
@@ -31,7 +30,7 @@ theme:
     - search.highlight
     - search.share
   favicon: images/vumc-favicon.png
-  logo: images/vumc-logo-white-text.png
+  logo: image.jpg
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
