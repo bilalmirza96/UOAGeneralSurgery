@@ -1,25 +1,21 @@
-.md-typeset abbr
-{
-borner-bottom: none;
-cursor: help;
-text-decoration: none
-}
-article ul ul 
-{
-        list-style-type:  circle !important;
-}
-article ul ul ul 
-{
-        list-style-type:  square !important;
+/* Force the top navigation bar to stay black */
+.md-header, .md-tabs {
+  background-color: #000000 !important;
+  color: #ffffff !important;
 }
 
-/* Logo dimensions */
+/* Adjust search and icons to look clean on black */
+.md-header__button, .md-icon, .md-header__title, .md-search__input {
+  color: #ffffff !important;
+}
+
+.md-search__input::placeholder {
+  color: #bbbbbb !important;
+}
+
+/* Keep the logo vertically centered */
 .md-header__button.md-logo img {
-  height: 32px;
+  height: 36px;
   width: auto;
-}
-
-/* Hide text beside logo */
-.md-header__title {
-  display: none;
+  margin-top: 2px;
 }
