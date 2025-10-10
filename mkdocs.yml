@@ -25,12 +25,12 @@ theme:
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
+  favicon: images/uoa-logo.png
+  logo: images/uoa-logo.png
   features:
     - search.suggest
     - search.highlight
     - search.share
-  favicon: images/ua-favicon.png
-  logo: images/ua-logo.png
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
