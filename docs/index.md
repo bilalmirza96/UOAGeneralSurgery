@@ -4,9 +4,6 @@ hide:
   - toc
 ---
 
-<div align="center">
-
-<img src="images/Surgery WEB-HEADER.png" alt="UArizona Surgery Logo" width="180" />
 
 # University of Arizona General Surgery Practice Management Guidelines
 
