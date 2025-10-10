@@ -4,11 +4,6 @@
 Welcome to the online home of the **University of Arizona General Surgery Residency Handbook**.  
 This handbook is a peer-reviewed, yearly-updated, publicly available resource for residents and faculty.
 
----
-
-[View Guidelines →](Appendices/index.md){ .md-button .md-button--primary }
-
-</div>
 
 ---
 
@@ -23,7 +18,7 @@ All guidelines are updated annually and reviewed by faculty and chief residents.
 
 ### Editorial Team
 
-**Chief Editors (2025 Edition):**  
+**Editors (2025 Edition):**  
 Muhammad Bilal Mirza, MD  
 [Department of Surgery, University of Arizona College of Medicine – Tucson](https://surgery.arizona.edu)
 
