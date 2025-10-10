@@ -1,9 +1,3 @@
----
-title: University of Arizona General Surgery Handbook
-hide:
-  - toc
----
-
 
 # University of Arizona General Surgery Practice Management Guidelines
 
