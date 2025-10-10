@@ -27,8 +27,8 @@ theme:
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
-  favicon: logo/UA_logo.png          # using your uploaded file for now
-  logo: logo/UA_logo.png             # <-- docs/logo/UA_logo.png
+  logo: logo/UA_logo.png            # header/home button logo  (docs/logo/UA_logo.png)
+  favicon: logo/ua-favicon.png      # square 32–48px favicon   (docs/logo/ua-favicon.png)
   features:
     - search.suggest
     - search.highlight
