@@ -25,8 +25,8 @@ theme:
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
-  favicon: images/uoa-logo.png
-  logo: images/uoa-logo.png
+  favicon: images/Surgery WEB-HEADER.png
+  logo: images/Surgery WEB-HEADER.png
   features:
     - search.suggest
     - search.highlight
