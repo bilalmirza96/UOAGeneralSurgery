@@ -29,95 +29,77 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-  favicon: images/vumc-favicon.png
-  logo: image.jpg
+  favicon: images/ua-favicon.png
+  logo: images/ua-logo.png
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/link
+        icon: material/brightness-auto
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: black
-      accent: amber
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: amber
       toggle:
-        icon: material/toggle-switch-off
+        icon: material/brightness-4
         name: Switch to system preference
+
 markdown_extensions:
-  # Python Markdown
   - abbr
   - admonition
   - attr_list
   - def_list
   - footnotes
-  - meta
   - md_in_html
   - toc:
       permalink: true
-  # Python Markdown Extensions
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.details
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
-  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: arizona-general-surgery
-      repo: vimbook
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
 extra_css:
   - stylesheets/extra.css
-extra_javascript:
-  - javascripts/extra.js
-# extra:
-#   analytics:
-#     provider: google
-#     property: G-L8DL9H6VHK
-#     feedback:
-#       title: Was this page helpful?
-#       ratings:
-#         - icon: material/emoticon-happy-outline
-#           name: This page was helpful
-#           data: 1
-#           note: >-
-#             Thank you! Help us improve this page by
-#             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank">feedback form</a>.
-#         - icon: material/emoticon-sad-outline
-#           name: This page could be improved
-#           data: 0
-#           note: >-
-#             Thanks for your feedback! Help us improve this page by
-#             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank">feedback form</a>.
-#  consent:
-#    title: Cookie consent
-#    description: >-
-#      We use cookies to recognize your repeated visits and preferences, as well
-#      as to measure the effectiveness of our documentation and whether users
-#      find what they're searching for. With your consent, you're helping us to
-#      make our documentation better.
-# University of Arizona Colors
-# Gold: Hex: D8AB4C, Black: Hex: 000000, Blue: Hex: 006682, Red: Hex:  993D1B, Dark Gray: Hex:  333333 Green: Hex:  464E21
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bilalmirza96/VanderbiltGeneralSurgery
