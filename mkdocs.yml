@@ -5,6 +5,7 @@ edit_uri: edit/main/docs/
 copyright: |
   Copyright © 2025 University of Arizona General Surgery
 docs_dir: 'docs'
+
 plugins:
   - search
   - awesome-pages
@@ -19,6 +20,7 @@ plugins:
       add_print_site_banner: true
       enumerate_headings: false
       enumerate_figures: false
+
 theme:
   name: material
   custom_dir: overrides
@@ -38,11 +40,15 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: black
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
