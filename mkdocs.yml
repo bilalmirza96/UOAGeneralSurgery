@@ -27,8 +27,8 @@ theme:
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
-  favicon: images/ua-favicon.png            # <— supply this file
-  logo: images/ua-logo-white.png            # <— white-on-dark UA logo
+  favicon: logo/UA_logo.png          # using your uploaded file for now
+  logo: logo/UA_logo.png             # <-- docs/logo/UA_logo.png
   features:
     - search.suggest
     - search.highlight
@@ -77,8 +77,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: arizona-general-surgery        # optional: your org/user
-      repo: vimbook                        # optional: your repo shortlink
+      user: bilalmirza96
+      repo: VanderbiltGeneralSurgery
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
@@ -112,4 +112,4 @@ extra:
         data: 0
         note: >-
           Thanks for your feedback! Help us improve this page by
-          using our <a href="h
+          using our <a href="https://github.com/bilalmirza96/VanderbiltGeneralSurgery/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
