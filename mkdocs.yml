@@ -1,11 +1,10 @@
-site_name: University of Arizona General Surgery Practice Management Guidelines
+site_name: University of Arizona General Surgery Handbook
 site_url: https://surgery-residency.com
 repo_url: https://github.com/bilalmirza96/VanderbiltGeneralSurgery
 edit_uri: edit/main/docs/
 copyright: |
   Copyright © 2025 University of Arizona General Surgery
 docs_dir: 'docs'
-
 plugins:
   - search
   - awesome-pages
@@ -20,96 +19,11 @@ plugins:
       add_print_site_banner: true
       enumerate_headings: false
       enumerate_figures: false
-
 theme:
   name: material
   custom_dir: overrides
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
-  logo: logo/UA_logo.png            # header/home button logo  (docs/logo/UA_logo.png)
-  favicon: logo/ua-favicon.png      # square 32–48px favicon   (docs/logo/ua-favicon.png)
-  features:
-    - search.suggest
-    - search.highlight
-    - search.share
-  palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      accent: amber
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: amber
-      toggle:
-        icon: material/toggle-switch-off
-        name: Switch to system preference
-
-markdown_extensions:
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - meta
-  - md_in_html
-  - toc:
-      permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: bilalmirza96
-      repo: VanderbiltGeneralSurgery
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-  - pymdownx.snippets:
-      auto_append:
-        - includes/abbreviations.md
-
-extra_css:
-  - stylesheets/extra.css
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/bilalmirza96/VanderbiltGeneralSurgery
-  feedback:
-    title: Was this page helpful?
-    ratings:
-      - icon: material/emoticon-happy-outline
-        name: This page was helpful
-        data: 1
-        note: >-
-          Thank you! Help us improve this page by
-          using our <a href="https://github.com/bilalmirza96/VanderbiltGeneralSurgery/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
-      - icon: material/emoticon-sad-outline
-        name: This page could be improved
-        data: 0
-        note: >-
-          Thanks for your feedback! Help us improve this page by
-          using our <a href="https://github.com/bilalmirza96/VanderbiltGeneralSurgery/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
+  logo: logo/UA_logo.png
+  # header/home button logo  (docs/logo/UA_logo.png)
