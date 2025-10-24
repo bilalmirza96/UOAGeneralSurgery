@@ -1,5 +1,5 @@
 
-Welcome to the online home of the **University of Arizona General Surgery Handbook.  
+Welcome to the online home of the University of Arizona General Surgery Handbook.  
 This handbook is a peer-reviewed, yearly-updated, publicly available resource for residents.  
 
 ---  
@@ -12,28 +12,37 @@ Adding the Handbook to Your Home Screen
 For iPhone or iPad (Safari)
 You can save the handbook as a web app on your iPhone or iPad — it will look and behave like a native app.
 
-Open Safari on your iPhone or iPad.
-Go to: https://vumcgspmg.pages.dev
-Tap the Share icon (the square with an arrow at the bottom of the screen).
-Scroll down and select Add to Home Screen.
-Name it (for example, UArizona Surgery Handbook) and tap Add.
-The handbook will now appear as an app on your Home Screen with the UA logo icon.
-Opening it will launch the site in full-screen mode.
+### Adding the Handbook to Your Home Screen
 
-For Android Devices (Chrome or Edge)
-You can also install the handbook as a web app on your Android phone or tablet.
+**For iPhone or iPad (Safari)**
 
-Open Chrome (or Microsoft Edge) on your Android device.
-Go to: https://vumcgspmg.pages.dev
-After the page loads, you may see a banner that says:
-“Add University of Arizona Surgery Handbook to Home screen.”
-Tap Add or Install.
-If the banner does not appear:
-Tap the three dots in the top-right corner of Chrome.
-Select Add to Home screen.
-Confirm by tapping Add or Install.
-The handbook will now appear on your Home Screen or in your App Drawer with the UA logo icon.
-Opening it will launch the full-screen version automatically.# University of Arizona General Surgery Handbook  
+1. Open Safari on your iPhone or iPad.
+
+2. Navigate to https://vumcgspmg.pages.dev
+
+3. Tap the Share button (a square with an upward arrow) at the bottom of the screen.
+
+4. Scroll down the share sheet and select Add to Home Screen.
+
+5. Enter a name for the icon (for example, “UA Surgery Handbook”), then tap Add.
+
+6. Look for the new icon on your home screen; tap it to launch the handbook in full‑screen mode.
+
+**For Android Devices (Chrome or Edge)**
+
+1. Open Chrome or Microsoft Edge on your Android device.
+
+2. Navigate to https://vumcgspmg.pages.dev
+
+3. Allow the page to load completely. After a moment, you may see a banner prompting you to add the site to your home screen.
+
+4. If the banner appears, tap Add or Install, then confirm in the next dialog.
+
+5. If no banner appears: Tap the three‑dot menu in the upper right corner of the browser. Choose Add to Home screen (or Install app).
+
+6. Confirm the name for the icon and tap Add or Install.
+
+7. A new icon with the UA logo will appear on your home screen or app drawer
 
 ---  
 
