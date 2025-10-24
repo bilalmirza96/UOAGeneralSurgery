@@ -1,20 +1,78 @@
-#UOAhandbook
-https://vumcgspmg.pages.dev
+# University of Arizona General Surgery Handbook
 
-This repository has the contents of the University of Arizona General Surgery Handbook.
+📘 **Website:** [https://vumcgspmg.pages.dev](https://vumcgspmg.pages.dev)
 
-## contributing
-### getting access
-Create an account on [GitHub](https://github.com/). It's free. Then shoot an email with your username to one of the maintainers of the vimbook (e.g. beau.hilton@vumc.org) to be added to the organization.
-### finding the files and opening them for editing
-On each page on [vimbook.org](vgs-book) there is a small pencil icon in the top right. If you are logged into GitHub, have been granted editing access, and click this button, it will take you right to a file editor for that page. Alternatively, if you are already here on GitHub, the working files are in folders in the [docs directory](https://github.com/bilalmirza96/VanderbiltGeneralSurgery/vimbook/tree/main/docs). Click into the folder you want, then into the file you want, and click the pencil icon above and to the right of the text.
-### editing basics
-The website is written in a simple text format called "Markdown," and you can edit the files right here on GitHub.
+This repository hosts the complete contents of the **University of Arizona General Surgery Handbook, a peer-reviewed, annually updated, publicly available resource for surgical residents and faculty.  
+
+It serves as a centralized, evidence-based reference for clinical decision-making and practice management across all surgical services.
+
+---
+
+## 🧭 Contributing
+
+### 1. Getting Access
+
+1. Create a free account on [GitHub](https://github.com/).
+2. Email your GitHub username to one of the maintainers of this project for access.
+
+Once added to the organization, you will be able to edit, preview, and submit updates directly through GitHub.
+
+---
+
+### 2. Finding Files & Opening for Editing
+
+Each section of the handbook corresponds to a Markdown (`.md`) file in the `docs/` directory.
+
+To edit:
+1. Navigate to the appropriate page on the handbook site (e.g., **Appendicitis** or **Trauma**).
+2. Click the ** Edit this page** icon in the top-right corner.
+3. You’ll be taken directly to the GitHub editor for that file.
+4. Make your changes, scroll down, and **Commit changes**.
+
+Alternatively, you can browse files directly:
+[View the docs directory](https://github.com/bilalmirza96/University-of-Arizona-General-Suregry-Handbook/tree/main/docs)
+
+---
+
+### 3. Editing Basics (Markdown Overview)
+
+The handbook uses **Markdown**, a simple text format that automatically converts into styled web content.
+
 <details>
-> <summary>
-> expand for more on Markdown
-> </summary>
->
-> ---
-> Markdown is a very simple text format that closely resembles the formatting we tend to use in medical documentation. E.g. a single '#' is used to denote a top-level header, multiple '##' denote sub-headings, '-' are used to denote list items (put a blank line before you start a new list, or markdown will think you're just putting a hyphen into a sentence), '*' around things mark them as important. The tool that builds the website will convert this markup into prettier and uniform styles, so you don't have to worry about getting the indentation or font just right.
+<summary>📄 Click to expand: Markdown Quick Guide</summary>
+
+---
+
+- `#` → Top-level header  
+- `##` → Subheader  
+- `-` or `*` → List items  
+- `**bold**` → Bold text  
+- `_italics_` → Italicized text  
+- `[text](url)` → Hyperlink  
+- Add a blank line between paragraphs or list blocks for proper formatting.
+
+Markdown is simple and well-suited to medical documentation — it emphasizes structure and clarity without worrying about fonts or spacing. The website engine (MkDocs Material) handles consistent formatting.
+
 </details>
+
+---
+
+## 📱 Adding the Handbook to Your iPhone Home Screen
+
+You can save the handbook as a **web app** on your iPhone or iPad — it will look and behave like a native app.
+
+1. Open **Safari** on your iPhone.  
+2. Go to: **[https://vumcgspmg.pages.dev](https://vumcgspmg.pages.dev)**  
+3. Tap the **Share icon** (the square with an arrow at the bottom of the screen).  
+4. Scroll down and select **“Add to Home Screen.”**  
+5. Name it (e.g., *UArizona Surgery Handbook*) and tap **Add**.
+
+You’ll now see the **UA logo app icon** on your Home Screen.  
+Tapping it will open the handbook instantly in full-screen mode.
+
+
+---
+
+**Maintainer:**  
+Muhammad Bilal Mirza, MD  
+[Department of Surgery, University of Arizona College of Medicine – Tucson](https://surgery.arizona.edu)
