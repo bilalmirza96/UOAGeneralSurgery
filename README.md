@@ -1,6 +1,6 @@
 # University of Arizona General Surgery Handbook
 
-📘 **Website:** [https://vumcgspmg.pages.dev](https://vumcgspmg.pages.dev)
+ **Website:** [https://vumcgspmg.pages.dev](https://vumcgspmg.pages.dev)
 
 This repository hosts the complete contents of the **University of Arizona General Surgery Handbook, a peer-reviewed, annually updated, publicly available resource for surgical residents and faculty.  
 
